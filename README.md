@@ -1,2 +1,5 @@
 # 10-Days-of-Statistics-HackerRank
-hackerrank.com - Practical in Statistics
+
+Solutions in Python to HackerRank's "10 Days of Statistics" challenge.
+
+HackeRank.com - Practical in Statistics
